@@ -1,1 +1,8 @@
 hello
+added text to line 2
+hello
+hello
+hello
+hello
+hello
+hello last line 8
